@@ -1,0 +1,44 @@
+/* #box1 {
+    height: 40px;
+    width : 50px;
+    background-color: chartreuse;
+}
+
+#box2 {
+    height : 30px;
+    width : 20%;
+    background-color: yellow;
+    font-size: 5px;
+    margin-left: 10%;
+    width : 2em;
+} */
+
+
+div {
+    background-color: yellowgreen;
+    height : 100px;
+    width: 100px;
+    display: inline-block;
+    border: 2px solid black;
+}
+
+#box1 {
+    position : static;
+}
+
+#box3 {
+    position: fixed;
+    top : 0px;
+}
+#box2 {
+    position: relative;
+    left: 10px;
+    top: 20px;
+}
+
+#box4 {
+    position: sticky;
+    top : 0px;
+    left : 20px;
+
+}

@@ -1,0 +1,32 @@
+h1
+{
+    color :black;
+    height: 75px;
+    width : 150px;
+    border : 2px solid pink;
+    text-align: center;
+    background-color: aquamarine;
+
+}
+
+p
+{
+    color:lightskyblue;
+
+}
+
+button 
+{
+    color:brown;
+}
+
+div
+{
+    height: 100px;
+    width : 100px;
+    border : 5px dashed black;
+    border-radius: 5px;
+    padding : 52px;
+    margin : 40px;
+    background-color: burlywood;
+}

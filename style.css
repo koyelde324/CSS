@@ -1,0 +1,59 @@
+*{
+    font-family:"times new roman";
+}
+
+#box
+{
+    background-color: blue;
+    color: white;
+}
+
+/* .heading
+{
+    color: red;
+} */
+
+h1,h2,h3
+{
+    color: red;
+}
+
+button
+{
+    color: green;
+}
+
+p
+{
+    text-align: left;
+    font-family: arial
+}
+
+/* h1
+{
+    color: hotpink;
+} */
+
+h1
+{
+    text-align: center;
+    color: pink;
+    text-decoration: brown wavy underline;
+    text-transform: capitalize;
+}
+/* 
+body
+{
+    background-color: bisque;
+} */
+
+#outer
+{
+    font-size: 25px;
+
+}
+
+#inner
+{
+    font-size: 10px;
+}
